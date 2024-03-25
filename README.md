@@ -45,7 +45,7 @@ My channel on Farcaster is more than a broadcast point; it's an interactive comm
 
 Come by and follow: [Aaron's Warpcast Channel](https://warpcast.com/~/channel/aaron)
 
-## Transitioning to Web3 with Paragraph.xyz
+## Transitioning .com blog to Web3 with Paragraph.xyz
 
 Shifting our content from aaronvick.com's blog to Paragraph.xyz, we're integrating Web3 technologies to enhance how we engage with our community. This platform change underscores our commitment to transparent, efficient communication and offers a space for in-depth exploration of technology, art, and community dynamics. Through Paragraph.xyz, we aim to foster a more interactive dialogue, making it the primary hub for our latest thought leadership and updates on the Superchain ecosystem. This evolution in content strategy marks a significant step in leveraging blockchain for richer, more connected storytelling.
 
