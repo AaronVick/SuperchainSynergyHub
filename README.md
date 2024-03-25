@@ -1,5 +1,6 @@
 # SuperchainSynergyHub
 Embracing Optimism rollup, SuperchainSynergyHub by Aaron Vick merges cutting-edge tech with art and community. Dive into Web3 innovations where blockchain's power extends beyond transactions to spark connections, creativity, and collective progress.
+
 # AaronVick: Uniting Technology, Art, and Community
 
 In an era where our digital and physical realities intertwine more seamlessly than ever, the emergence of Web3 stands as a beacon of transformation. At its core, Web3 represents more than just technological advancement; it embodies the very essence of human connection, transcending geographical boundaries and cultural divides. I am Aaron Vick, and for over three decades, I've navigated the forefront of technology, art, and strategic innovation. With a rich professional heritage and a forward-looking vision, I am poised to embrace and shape the next wave of digital evolution.
@@ -15,6 +16,10 @@ As we embark on this adventure together, let us harness the power of Web3 to unl
 Powered by [WithFabric](https://withfabric.com/), HyperSub represents a pioneering integration of subscription models with blockchain technology. This service is designed to offer subscribers exclusive content and experiences, leveraging WithFabric's robust infrastructure to ensure security, privacy, and seamless access. HyperSub is a testament to the potential of blockchain in redefining content consumption and creator-audience relationships.
 
 Grab a [True Believer Token](https://hypersub.withfabric.xyz/collection/true-believer-1d84mu29u39c0)
+
+## Pitch Your Vision: Farcaster Frames Connection
+
+Bringing your Web3 vision to life? I’ve set up a straightforward path using Farcaster Frames. Just you, your idea, and a simple form to connect your pitch deck directly to me. I’m always keen to match impressive teams with the right backers from my circle. Access the Frame here:[https://www.aaronvick.com/pitchdeckfc.html](https://www.aaronvick.com/pitchdeckfc.html)
 
 ## Humanity's Ledger & Commemorative Token
 
