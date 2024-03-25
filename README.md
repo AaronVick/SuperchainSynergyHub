@@ -1,4 +1,4 @@
-# SuperchainSynergyHub
+# Superchain Synergy Hub
 Embracing Optimism rollup, SuperchainSynergyHub by Aaron Vick merges cutting-edge tech with art and community. Dive into Web3 innovations where blockchain's power extends beyond transactions to spark connections, creativity, and collective progress.
 
 # AaronVick: Uniting Technology, Art, and Community
@@ -14,6 +14,8 @@ As we embark on this adventure together, let us harness the power of Web3 to unl
 ## HyperSub Subscription Service
 
 Powered by [WithFabric](https://withfabric.com/), HyperSub represents a pioneering integration of subscription models with blockchain technology. This service is designed to offer subscribers exclusive content and experiences, leveraging WithFabric's robust infrastructure to ensure security, privacy, and seamless access. HyperSub is a testament to the potential of blockchain in redefining content consumption and creator-audience relationships.
+
+NO BS, NO SPAM, NO BORING NEWSLETTER, NO SHILL; JUST STRAIGHT VALUE.
 
 Grab a [True Believer Token](https://hypersub.withfabric.xyz/collection/true-believer-1d84mu29u39c0)
 
