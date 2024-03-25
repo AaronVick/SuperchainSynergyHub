@@ -33,7 +33,7 @@ View the [Claim Page](https://app.manifold.xyz/c/humanitysledgerthetrustprotocol
 
 The Banana party.app, coupled with the Banana Run game, exemplifies the synergy between gaming, blockchain, and social impact. This project uses engaging gameplay to drive awareness and pooled funds for community causes, demonstrating the game-changing potential of integrating blockchain technology with entertainment. It's a model for leveraging digital platforms in service of meaningful, collective action.
 
-Visit and join the [Banana Run party](https://base.party.app/party/0x1a5bc5dbd71203981f110d74328f191dbdc94d00)
+Visit and join the [Banana Run party](https://base.party.app/party/0xe3c7FE76186B7201738F7008526FeCf5d84991e8)
 
 ## AI Artwork on Zora.co
 
